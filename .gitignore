@@ -1,0 +1,9 @@
+# virtual environments
+myvenv/
+
+# log files
+*.log
+
+# editor  files
+.vscode/
+.DS_Store/
